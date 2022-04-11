@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Patryk/Downloads/w/app/src/main/res/layout/activity_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/Patryk/Downloads/w/app/src/main/res/layout/weather_rv_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/studia/PROJEKT_MOBILKA/weatherapp/app/src/main/res/drawable/ic_search.xml" value="0.21822916666666667" />
+        <entry key="..\:/studia/PROJEKT_MOBILKA/weatherapp/app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/studia/PROJEKT_MOBILKA/weatherapp/app/src/main/res/layout/weather_rv_item.xml" value="0.1598731884057971" />
+        <entry key="..\:/studia/PROJEKT_MOBILKA/weatherappv4/app/src/main/res/layout/activity_main.xml" value="0.2692502532928065" />
+        <entry key="..\:/studia/PROJEKT_MOBILKA/weatherappv4/app/src/main/res/layout/weather_rv_item.xml" value="0.2692502532928065" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
