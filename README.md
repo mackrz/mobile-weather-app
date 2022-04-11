@@ -10,5 +10,7 @@
   * Description of the weather status
   * Changing the background according to the time
 * App presentation
+
 ![img.png](images/img.png)
+
 ![img_1.png](images/img_1.png)
